@@ -10,7 +10,7 @@ Focused on performance, security, and automation from development to production.
 
 <div align="center">
 <a href="#" target="_blank">
-<img src="https://skillicons.dev/icons?i=laravel,go,css,javascript,bootstrap,react,nodejs,express,vue,angular,jquery,tailwind,redux,ts,vite,php,mongodb,mysql,rails,django,next,cpp,java,aws,ruby,dart,vercel,netlify,firebase,gitlab,bash,linux,apple&perline=11" />
+<img src="https://skillicons.dev/icons?i=laravel,go,css,javascript,bootstrap,react,nodejs,express,vue,angular,jquery,tailwind,redux,ts,vite,php,mongodb,mysql,rails,django,next,c,java,aws,ruby,dart,vercel,netlify,firebase,gitlab,bash,linux,apple&perline=11" />
 </a>
 
 </div>
