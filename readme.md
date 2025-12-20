@@ -25,7 +25,6 @@ Focused on performance, security, and automation from development to production.
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prabowosd&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prabowosd&theme=radical&utcOffset=8">
 <img height="169em" src="https://github-readme-stats.vercel.app/api?username=prabowosd&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
-<img height="169em" src="https://github-readme-streak-stats.herokuapp.com?user=prabowosd&theme=radical">
 
 </div>
 <br>
