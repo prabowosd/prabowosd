@@ -1,4 +1,4 @@
-# 👋 Uhh..Ooohh Hello buddy 
+# 👋 Uhh..Ooohh Hello 
 
 > Full-stack Developer | DevOps Enthusiast | System Architect | Mobile Developer | Backend Artisan
 
