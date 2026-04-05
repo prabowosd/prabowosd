@@ -22,7 +22,7 @@ Focused on performance, security, and automation from development to production.
 </p>
 
 <div align=center> 
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&width=1000&height=50&lines=Fun+Facts:+;Love+joking,+got+a+great+sense+of+humor.+;" alt="Fun Facts" /> 
+<img src="https://readme-typing-svg.herokuapp.com?font=FiraCode&weight=500&size=18&duration=2000&pause=1000&color=AE1C27&vCenter=true&width=435&lines=Full-stack+Developer+%7C+DevOps+Enthusiast+;System+Architect+%7C+Mobile+Developer;Software+Engineer+%7C+Backend+Artisan" alt="sdp" />
 </div>
   
 <br>
