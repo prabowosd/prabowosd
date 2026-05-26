@@ -4,7 +4,7 @@ A full-stack engineer who loves crafting solid infrastructure and scalable backe
 
 Now full-time @lifefuturedev and @starsetdev, building the **LF+ Ecosystem** — a corporate-grade ERP and cross-platform Super App.
 
-7+ years across CTO and engineering leadership roles. 
+12+ years across CTO and engineering leadership roles. 
 Previously: Chief IT at Homyped (PT Dwi Naga Sakti Abadi); 
 software & infrastructure consulting in Go and Nuxt.js.
 
